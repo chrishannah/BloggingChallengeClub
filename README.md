@@ -13,3 +13,5 @@ They've not been confirmed yet, as we are still trying to come up with them. If 
 ## Can I join?
 
 Anyone can take part! You can follow along with the topics here when they are confirmed, or if you want to be more involved, then there is a [Discord channel that you can join](http://bloggingclub.link).
+
+<img src="images/discord.png" style="height: 80px;" />
