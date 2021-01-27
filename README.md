@@ -1,8 +1,6 @@
 <center>
-	<img src="images/logo.png" style="height: 300px; margin-left: auto; margin-right: auto;" />
+	<img src="images/logo.png" style="height: 300px; />
 </center>
-
-# Blogging Challenge Club
 
 ## What is this?
 
