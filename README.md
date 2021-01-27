@@ -1,4 +1,4 @@
-# Blogging Challenge Club
+<img src="images/logo.png" style="height: 400px; margin-left: auto; margin-right: auto;" />
 
 ## What is this?
 
