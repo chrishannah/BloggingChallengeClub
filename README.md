@@ -1,5 +1,5 @@
 <center>
-	<img src="images/logo.png" style="height: 300px; />
+	<img src="images/logo.png" style="height: 300px;" />
 </center>
 
 ## What is this?
